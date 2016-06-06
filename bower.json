@@ -1,0 +1,23 @@
+{
+  "name": "helpercss",
+  "homepage": "https://github.com/jedi4z/helpercss",
+  "authors": [
+    "Jesús Díaz <gbuuss@gmail.com>"
+  ],
+  "description": "",
+  "main": "dist/helpercss.css",
+  "keywords": [
+    "css",
+    "helper",
+    "classes",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

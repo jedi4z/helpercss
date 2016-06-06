@@ -5,7 +5,7 @@
     "Jesús Díaz <gbuuss@gmail.com>"
   ],
   "description": "",
-  "main": "dist/helpercss.css",
+  "main": "stylesheets/helpercss.css",
   "keywords": [
     "css",
     "helper",

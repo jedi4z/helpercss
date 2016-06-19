@@ -417,3 +417,13 @@
 .mgb-100 {
   margin-bottom: 100px !important;
 }
+
+/* line 1, ../sass/centerer/_vertically.scss */
+.cv-parent {
+  padding: 5% 0;
+}
+
+/* line 5, ../sass/centerer/_vertically.scss */
+.cv-child {
+  padding: 10% 0;
+}

@@ -1,0 +1,17 @@
+@mixin mq-desktop(){
+  @include mq($media-type: 'all', $min-width: $min-width-desktop, $max-width: $max-width-desktop) {
+    @content;
+  }
+}
+
+@mixin mq-tablet(){
+  @include mq($media-type: 'all', $min-width: $min-width-tablet, $max-width: $max-width-tablet) {
+    @content;
+  }
+}
+
+@mixin mq-mobile(){
+  @include mq($media-type: 'all', $max-width: $max-width-mobile) {
+    @content;
+  }
+}

@@ -818,6 +818,212 @@
   margin-bottom: 200px !important;
 }
 
+@media all and (min-width: 992px) and (max-width: 1199px) {
+  /* line 3, ../sass/margins/_bottom-md.scss */
+  .mgb-md-0 {
+    margin-bottom: 0 !important;
+  }
+
+  /* line 7, ../sass/margins/_bottom-md.scss */
+  .mgb-md-5 {
+    margin-bottom: 5px !important;
+  }
+
+  /* line 11, ../sass/margins/_bottom-md.scss */
+  .mgb-md-10 {
+    margin-bottom: 10px !important;
+  }
+
+  /* line 15, ../sass/margins/_bottom-md.scss */
+  .mgb-md-15 {
+    margin-bottom: 15px !important;
+  }
+
+  /* line 19, ../sass/margins/_bottom-md.scss */
+  .mgb-md-20 {
+    margin-bottom: 20px !important;
+  }
+
+  /* line 23, ../sass/margins/_bottom-md.scss */
+  .mgb-md-25 {
+    margin-bottom: 25px !important;
+  }
+
+  /* line 27, ../sass/margins/_bottom-md.scss */
+  .mgb-md-30 {
+    margin-bottom: 30px !important;
+  }
+
+  /* line 31, ../sass/margins/_bottom-md.scss */
+  .mgb-md-35 {
+    margin-bottom: 35px !important;
+  }
+
+  /* line 35, ../sass/margins/_bottom-md.scss */
+  .mgb-md-40 {
+    margin-bottom: 40px !important;
+  }
+
+  /* line 39, ../sass/margins/_bottom-md.scss */
+  .mgb-md-45 {
+    margin-bottom: 45px !important;
+  }
+
+  /* line 43, ../sass/margins/_bottom-md.scss */
+  .mgb-md-50 {
+    margin-bottom: 50px !important;
+  }
+
+  /* line 47, ../sass/margins/_bottom-md.scss */
+  .mgb-md-55 {
+    margin-bottom: 55px !important;
+  }
+
+  /* line 51, ../sass/margins/_bottom-md.scss */
+  .mgb-md-60 {
+    margin-bottom: 60px !important;
+  }
+
+  /* line 55, ../sass/margins/_bottom-md.scss */
+  .mgb-md-65 {
+    margin-bottom: 65px !important;
+  }
+
+  /* line 59, ../sass/margins/_bottom-md.scss */
+  .mgb-md-70 {
+    margin-bottom: 70px !important;
+  }
+
+  /* line 63, ../sass/margins/_bottom-md.scss */
+  .mgb-md-75 {
+    margin-bottom: 75px !important;
+  }
+
+  /* line 67, ../sass/margins/_bottom-md.scss */
+  .mgb-md-80 {
+    margin-bottom: 80px !important;
+  }
+
+  /* line 71, ../sass/margins/_bottom-md.scss */
+  .mgb-md-85 {
+    margin-bottom: 85px !important;
+  }
+
+  /* line 75, ../sass/margins/_bottom-md.scss */
+  .mgb-md-90 {
+    margin-bottom: 90px !important;
+  }
+
+  /* line 79, ../sass/margins/_bottom-md.scss */
+  .mgb-md-95 {
+    margin-bottom: 95px !important;
+  }
+
+  /* line 83, ../sass/margins/_bottom-md.scss */
+  .mgb-md-100 {
+    margin-bottom: 100px !important;
+  }
+
+  /* line 87, ../sass/margins/_bottom-md.scss */
+  .mgb-md-105 {
+    margin-bottom: 105px !important;
+  }
+
+  /* line 91, ../sass/margins/_bottom-md.scss */
+  .mgb-md-110 {
+    margin-bottom: 110px !important;
+  }
+
+  /* line 95, ../sass/margins/_bottom-md.scss */
+  .mgb-md-115 {
+    margin-bottom: 115px !important;
+  }
+
+  /* line 99, ../sass/margins/_bottom-md.scss */
+  .mgb-md-120 {
+    margin-bottom: 120px !important;
+  }
+
+  /* line 103, ../sass/margins/_bottom-md.scss */
+  .mgb-md-125 {
+    margin-bottom: 125px !important;
+  }
+
+  /* line 107, ../sass/margins/_bottom-md.scss */
+  .mgb-md-130 {
+    margin-bottom: 130px !important;
+  }
+
+  /* line 111, ../sass/margins/_bottom-md.scss */
+  .mgb-md-135 {
+    margin-bottom: 135px !important;
+  }
+
+  /* line 115, ../sass/margins/_bottom-md.scss */
+  .mgb-md-140 {
+    margin-bottom: 140px !important;
+  }
+
+  /* line 119, ../sass/margins/_bottom-md.scss */
+  .mgb-md-145 {
+    margin-bottom: 145px !important;
+  }
+
+  /* line 123, ../sass/margins/_bottom-md.scss */
+  .mgb-md-150 {
+    margin-bottom: 150px !important;
+  }
+
+  /* line 127, ../sass/margins/_bottom-md.scss */
+  .mgb-md-155 {
+    margin-bottom: 155px !important;
+  }
+
+  /* line 131, ../sass/margins/_bottom-md.scss */
+  .mgb-md-160 {
+    margin-bottom: 160px !important;
+  }
+
+  /* line 135, ../sass/margins/_bottom-md.scss */
+  .mgb-md-165 {
+    margin-bottom: 165px !important;
+  }
+
+  /* line 139, ../sass/margins/_bottom-md.scss */
+  .mgb-md-170 {
+    margin-bottom: 170px !important;
+  }
+
+  /* line 143, ../sass/margins/_bottom-md.scss */
+  .mgb-md-175 {
+    margin-bottom: 175px !important;
+  }
+
+  /* line 147, ../sass/margins/_bottom-md.scss */
+  .mgb-md-180 {
+    margin-bottom: 180px !important;
+  }
+
+  /* line 151, ../sass/margins/_bottom-md.scss */
+  .mgb-md-185 {
+    margin-bottom: 185px !important;
+  }
+
+  /* line 155, ../sass/margins/_bottom-md.scss */
+  .mgb-md-190 {
+    margin-bottom: 190px !important;
+  }
+
+  /* line 159, ../sass/margins/_bottom-md.scss */
+  .mgb-md-195 {
+    margin-bottom: 195px !important;
+  }
+
+  /* line 163, ../sass/margins/_bottom-md.scss */
+  .mgb-md-200 {
+    margin-bottom: 200px !important;
+  }
+}
 /* line 1, ../sass/centerer/_vertically.scss */
 .cv-parent {
   padding: 5% 0;
